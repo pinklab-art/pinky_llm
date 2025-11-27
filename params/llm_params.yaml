@@ -1,0 +1,5 @@
+chatbot_agent_node:
+  ros__parameters:
+    verbose: False
+    show: False
+    model_path: "/home/pinky/pinky_violet/src/pinky_llm/pinky_llm/checkpoints/yolo/yolo11n.pt"

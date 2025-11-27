@@ -1,0 +1,10 @@
+opencv-python==4.10.0.82
+opencv-python-headless==4.10.0.82
+numpy==1.26.2
+ultralytics
+dotenv
+langchain
+langchain_openai
+langchain_core
+langchain_community
+langchain_teddynote
